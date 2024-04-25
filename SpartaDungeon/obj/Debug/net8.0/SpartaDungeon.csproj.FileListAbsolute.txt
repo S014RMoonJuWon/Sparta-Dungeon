@@ -1,0 +1,14 @@
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.AssemblyInfoInputs.cache
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.AssemblyInfo.cs
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.csproj.CoreCompileInputs.cache
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.exe
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.deps.json
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.runtimeconfig.json
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.dll
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.pdb
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.dll
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\refint\SpartaDungeon.dll
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.pdb
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.genruntimeconfig.cache
+C:\Users\1217s\OneDrive\Desktop\C#\ConsoleApp1\SpartaDungeon\obj\Debug\net8.0\ref\SpartaDungeon.dll
